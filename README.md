@@ -250,7 +250,9 @@ int main(int argc, char **argv)
 
 ```
 ## OUTPUT:
-![pca](https://github.com/janarthanan23/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/119491930/3fa61f31-527d-42fd-aa9b-4431a6a22876)
+![image](https://github.com/divyakumars/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/119393621/78e80df3-c7f4-467f-baed-56f1333b10d0)
+
+
 
 
 ## RESULT:
